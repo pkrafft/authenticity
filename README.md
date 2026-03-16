@@ -22,26 +22,26 @@ _Instructions: Make a "pull request" to the repo to make corrections or add sugg
 
 ## What have we read together so far? 
 
-1. 9 April 2025
-....Jean Baudrillard (1981) Simulacra and Simulation
-2. 7 May 2025
-....Pierre Bourdieu (1993) The Field of Cultural Production
-3. 25 June 2025
-....Karen Cook (2001) Trust in Society
-4. 24 August 2025
-....Field trip to see [Chris Cook's "Fake"](https://www.chriscookmagic.co.uk/fake) at the Fringe
-5. 29 September 2025
-....Michael Power (1997) The Audit Society: Rituals of Verification
-6. 3 November 2025
-....Ian Hacking (2000) Social Construction of What?
-7. 11 December 2025
-....Louise Amoore (2020) Cloud Ethics: Algorithms and the Attributes of Ourselves and Others
-8. 20 February 2026
-....Herbert Marcuse (1964) One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society
-....Naomi Klein (1999) No Logo
-9. 14 April 2026
-....Walter Benjamin (1935) The Work of Art in the Age of Mechanical Reproduction
-....Naomi Klein (2023) Doppelganger: A Trip Into the Mirror World
+* 9 April 2025
+....*Jean Baudrillard (1981) Simulacra and Simulation
+* 7 May 2025
+....*Pierre Bourdieu (1993) The Field of Cultural Production
+* 25 June 2025
+....*Karen Cook (2001) Trust in Society
+* 24 August 2025
+....*Field trip to see [Chris Cook's "Fake"](https://www.chriscookmagic.co.uk/fake) at the Fringe
+* 29 September 2025
+....*Michael Power (1997) The Audit Society: Rituals of Verification
+* 3 November 2025
+....*Ian Hacking (2000) Social Construction of What?
+* 11 December 2025
+....*Louise Amoore (2020) Cloud Ethics: Algorithms and the Attributes of Ourselves and Others
+* 20 February 2026
+....*Herbert Marcuse (1964) One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society
+....*Naomi Klein (1999) No Logo
+* 14 April 2026
+....*Walter Benjamin (1935) The Work of Art in the Age of Mechanical Reproduction
+....*Naomi Klein (2023) Doppelganger: A Trip Into the Mirror World
 
 ## What else is on our reading list? 
 
