@@ -2,7 +2,7 @@
 
 Co-organisers/Members: [Addie McGowan](https://www.sps.ed.ac.uk/staff/addie-mcgowan), [Ari Stillman](https://www.sps.ed.ac.uk/staff/ari-stillman), [Morgan Currie](https://www.sps.ed.ac.uk/staff/morgan-currie), [Peaks Krafft](https://www.sps.ed.ac.uk/staff/p-m-krafft)
 
-_Instructions: Make a "pull request" to the repo to make corrections or add suggestions!_
+_Instructions: Make a ["pull request" in the Git repo](https://github.com/pkrafft/authenticity/blob/main/README.md) to make corrections or add suggestions!_
 
 ## Background reading
 
