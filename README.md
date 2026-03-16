@@ -29,7 +29,7 @@ _Instructions: Make a "pull request" to the repo to make corrections or add sugg
 * 2025 June 25
   * Karen Cook (2001) Trust in Society
 * 2025 August 24
-  * Field trip to see [Chris Cook's "Fake"](https://www.chriscookmagic.co.uk/fake) at the Fringe
+  * Field trip to see Chris Cook's "Fake" at the Edinburgh Fringe Festival
 * 2025 September 29
   * Michael Power (1997) The Audit Society: Rituals of Verification
 * 2025 November 3
