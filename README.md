@@ -50,7 +50,9 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
 * The Ethics of Authenticity by Charles Taylor
 * "Authentic™: The Politics of Ambivalence in a Brand Culture" by Sarah Banet-Weiser
 * Minima Moralia by Theodor W. Adorno
-* Melvin Seeman (1966) Status and Identity: The Problem of Inauthenticity 
+* Melvin Seeman (1966) Status and Identity: The Problem of Inauthenticity
+* Dick Hebdige (1979) Subculture: The Meaning of Style
+* Habermas 
 
 ## Other references and resources
 
