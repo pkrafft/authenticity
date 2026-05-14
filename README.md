@@ -4,8 +4,6 @@ Co-organisers/Members: [Morgan Currie](https://www.sps.ed.ac.uk/staff/morgan-cur
 
 _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkrafft/authenticity/blob/main/README.md) to make corrections or add suggestions!_
 
-[This website is here.](https://pkrafft.github.io/authenticity/)
-
 ## Background reading
 
 ### Philosophy
@@ -97,5 +95,5 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
 * [Truth, Trust and Trickery in the AI Age Event](https://www.edinburghscience.co.uk/event/truth-trust-and-trickery-in-the-ai-age/)
 
 
-
+[The URL of the current website is here.](https://pkrafft.github.io/authenticity/)
 
