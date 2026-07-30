@@ -108,5 +108,5 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
 * [Truth, Trust and Trickery in the AI Age Event](https://www.edinburghscience.co.uk/event/truth-trust-and-trickery-in-the-ai-age/)
 
 
-[The URL of the current website is here.](https://pkrafft.github.io/authenticity/)
+[The URL of this website is here.](https://pkrafft.github.io/authenticity/)
 
