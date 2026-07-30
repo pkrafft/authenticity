@@ -43,7 +43,7 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
   * Walter Benjamin (1935) The Work of Art in the Age of Mechanical Reproduction
   * Naomi Klein (2023) Doppelganger: A Trip Into the Mirror World
 * 2026 June 11
-  * Special guests: Dominique Carlon and ???
+  * Special guests: Dominique Carlon and Anthony McCosker
   * Henrickson, L. (2023). Chatting with the dead: the hermeneutics of thanabots. Media, Culture & Society, 45(5), 949-966
   * Bollmer, G., & Rodley, C. (2016). Speculations on the sociality of socialbots. In Socialbots and their friends (pp. 163-179). Routledge
   * Natale, S., & Henrickson, L. (2024). The Lovelace effect: Perceptions of creativity in machines. New Media & Society, 26(4), 1909-1926
@@ -64,7 +64,6 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
 * Habermas
 * Kafka
 * Nietzsche
-* Lies my Teacher Told Me
 
 ## Other references and resources
 
