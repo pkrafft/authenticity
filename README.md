@@ -24,6 +24,7 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
 
 * 2025 April 9
   * Jean Baudrillard (1981) Simulacra and Simulation
+  * Provenance: How a Con Man and a Forger Rewrote the History of Modern Art by Laney Salisbury and Aly Sujo (2010)
 * 2025 May 7
   * Pierre Bourdieu (1993) The Field of Cultural Production
 * 2025 June 25
@@ -64,6 +65,7 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
 * Habermas
 * Kafka
 * Nietzsche
+* Adrian Franklin’s Tourism as an Ordering
 
 ## Other references and resources
 
