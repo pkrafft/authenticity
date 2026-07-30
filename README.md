@@ -1,6 +1,6 @@
 # Edinburgh Authenticity Studies Reading Group
 
-Co-organisers/Members: [Morgan Currie](https://www.sps.ed.ac.uk/staff/morgan-currie), [Peaks Krafft](https://www.sps.ed.ac.uk/staff/p-m-krafft), [Addie McGowan](https://www.sps.ed.ac.uk/staff/addie-mcgowan), [Ari Stillman](https://www.sps.ed.ac.uk/staff/ari-stillman)
+Co-organisers/Members: [Morgan Currie](https://www.sps.ed.ac.uk/staff/morgan-currie), [Peaks Krafft](https://www.sps.ed.ac.uk/staff/p-m-krafft), [Addie McGowan](https://www.sps.ed.ac.uk/staff/addie-mcgowan), [Matea Senkić](https://www.sps.ed.ac.uk/staff/matea-senkic), [Ari Stillman](https://www.sps.ed.ac.uk/staff/ari-stillman)
 
 _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkrafft/authenticity/blob/main/README.md) to make corrections or add suggestions!_
 
@@ -42,6 +42,15 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
 * 2026 April 14
   * Walter Benjamin (1935) The Work of Art in the Age of Mechanical Reproduction
   * Naomi Klein (2023) Doppelganger: A Trip Into the Mirror World
+* 2026 June 11
+  * Special guests: Dominique Carlon and ???
+  * Henrickson, L. (2023). Chatting with the dead: the hermeneutics of thanabots. Media, Culture & Society, 45(5), 949-966
+  * Bollmer, G., & Rodley, C. (2016). Speculations on the sociality of socialbots. In Socialbots and their friends (pp. 163-179). Routledge
+  * Natale, S., & Henrickson, L. (2024). The Lovelace effect: Perceptions of creativity in machines. New Media & Society, 26(4), 1909-1926
+  * Matamoros-Fernández, A., Bartolo, L., & Alpert, B. (2024). Acting like a bot as a defiance of platform power: Examining YouTubers’ patterns of ‘inauthentic’ behaviour on Twitter during COVID-19. New Media & Society, 26(3), 1290–1314
+  * Graham, T., & Carlon, D. (2026). On the Internet no-one knows you’re not a bot:‘Botting’on Reddit as participatory culture. New Media & Society, 14614448251409210
+* 2026 June 30
+  * Special Secret Draft manuscript by Peaks
 
 ## What else is on our reading list? 
 
