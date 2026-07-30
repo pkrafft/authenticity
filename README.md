@@ -61,7 +61,10 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
 * Minima Moralia by Theodor W. Adorno
 * Melvin Seeman (1966) Status and Identity: The Problem of Inauthenticity
 * Dick Hebdige (1979) Subculture: The Meaning of Style
-* Habermas 
+* Habermas
+* Kafka
+* Nietzsche
+* Lies my Teacher Told Me
 
 ## Other references and resources
 
