@@ -52,6 +52,9 @@ _Instructions: Make a ["pull request" in the Git repo](https://github.com/pkraff
   * Graham, T., & Carlon, D. (2026). On the Internet no-one knows you’re not a bot:‘Botting’on Reddit as participatory culture. New Media & Society, 14614448251409210
 * 2026 June 30
   * Special Secret Draft manuscript by Peaks
+* 2026 August 17
+  * Marshall Berman (1972) The Politics of Authenticity: Radical Individualism and the Emergence of Modern Society
+  * Charles Taylor (1991) The Ethics of Authenticity
 
 ## What else is on our reading list? 
 
